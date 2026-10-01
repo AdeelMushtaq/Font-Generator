@@ -1,0 +1,6 @@
+{
+  "name": "Font Creator",
+  "description": "Convert handwritten template scans into pixel-accurate installable TrueType (.ttf) fonts with edge-based vector contour tracing.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
